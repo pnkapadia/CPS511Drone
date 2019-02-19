@@ -9,3 +9,4 @@ Press 'f' to move the drone forwards.
 Press 'b' to move the drone backwards.
 The arrow keys - UP, DOWN, LEFT, RIGHT can be used to move the drone accordingly.
 Additionally, the propellers can spin if you left-click on the mouse. To stop the spinning, simply right-click.
+ 
